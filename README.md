@@ -13,7 +13,9 @@ Tasks and methods like:
 
 <code>
   file_get_contents($_file = "template",FILE_VALUE) (Binary-Safe)
+  
   preg_replace (posix, eregi, pcre, regex)
+  
   array _ASSOC_NUMERABLE_
 </code>
 
