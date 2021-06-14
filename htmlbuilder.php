@@ -10,7 +10,7 @@ header("Content-type: text/html; Charset: utf-8; Pragma: no-cache;");
 class htmlbuilder{
 	
 	var $_path;
-	private $_str;
+	var $_str;
 	
 	public function __construct($_html = "template.html.php"){
 		$this->_path = $_html;
