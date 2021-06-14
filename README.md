@@ -10,6 +10,7 @@ The must know techniqe or technology to assert is the Structured Programing with
 
 The must characteristic aspect of this library is its own invoqe and <strong>_NEW</strong> Clause as the Class Object Carries varios tasks in the Object Constructor Method
 Tasks and methods like:
+
 <code>
   file_get_contents($_file = "template",FILE_VALUE) (Binary-Safe)
   preg_replace (posix, eregi, pcre, regex)
