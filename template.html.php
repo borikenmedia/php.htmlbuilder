@@ -24,7 +24,7 @@
 			<li><a href="#" target="_self" title="LINK">ABOUT</a></li>
 			<li><a href="#" target="_self" title="LINK">SERVICE</a></li>
 			<li><a href="#" target="_self" title="LINK">POSTS</a></li>
-			<li><a href="#" target="_self" title="LINK">CONTACT</a></li>a
+			<li><a href="#" target="_self" title="LINK">CONTACT</a></li>
 		</ul>
 	</div>
 	<div style="clear:both;"></div>
