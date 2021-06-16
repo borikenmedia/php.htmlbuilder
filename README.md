@@ -4,8 +4,7 @@ This is a Html Builder Class Object That Like html_helper Allows the user to bet
 The must know techniqe or technology to assert is the Structured Programing with:
 <li>Object Oriented Programing (Pragma)</li>
 <li>Structured Programing (Paradigm)</li>
-<li>Computer Programing (Symbol)</li>
-
+<li>Computer Programing (Symbol)</li><br/><br/>
 <strong>Last But Not Least</strong>
 <li>Network Programing</li>
 
