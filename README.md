@@ -19,3 +19,4 @@ Tasks and methods like:
 <code>array _ASSOC_NUMERABLE_</code>
 
 #Under Construction#
+The provided program (Web Tool) is a php8 Library that uses a natural replacement routine with built-in methods (functions) like <italic>preg_match</italic>, <italic>preg_replace</italic> and <italic>eregi_replace</italic> which make a routed search of a specific value <code>func(combine[*/], replace[?$], pointer_variable)</code> matching or replacing a specific combination sequence or pattern like regular-expresion coincidence.
