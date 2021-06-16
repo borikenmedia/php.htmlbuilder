@@ -20,3 +20,4 @@ Tasks and methods like:
 
 #Under Construction#<br/>
 The provided program (Web Tool) is a php8 Library that uses a natural replacement routine with built-in methods (functions) like <i>preg_match</i>, <i>preg_replace</i> and <i>eregi_replace</i> which make a routed search of a specific value <code> func(combine[*/], replace[?$], pointer_variable) </code> matching or replacing a specific combination sequence or pattern like regular-expresion coincidence.
+The recommended maturity for a machine-type development utility or built-in (e) software is somewhere near intermediate to advanced with avility to set-up a base config for web-technology and network development like Wamp (Windows, Apache2, MySQL, PHP) or Lamp (Linux, Apache2, MySQL, PHP).
