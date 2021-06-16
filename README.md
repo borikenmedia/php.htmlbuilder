@@ -5,6 +5,7 @@ The must know techniqe or technology to assert is the Structured Programing with
 <li>Object Oriented Programing (Pragma)</li>
 <li>Structured Programing (Paradigm)</li>
 <li>Computer Programing (Symbol)</li>
+
 <strong>Last But Not Least</strong>
 <li>Network Programing</li>
 
